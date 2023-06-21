@@ -25,7 +25,7 @@ Once you have successfully installed Node.js and npm, you should be able to use 
 
  **Install yarn now**
 
-    npm -g install yarn
+    npm install -g yarn
     yarn --version
 
 **If get Error = yarn : File C:\Users\(userID)\AppData\Roaming\npm\yarn.ps1 cannot be loaded because running scripts is disabled on this system.**
