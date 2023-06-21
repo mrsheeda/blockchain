@@ -13,16 +13,22 @@ To resolve this issue, you can follow these steps:
     cssCopy code
     
     `node --version
+    
     npm --version` 
     
     These commands should display the version numbers of Node.js and npm, respectively. If you see the version numbers, it means that Node.js and npm are installed correctly.
     
-4.  Restart VS Code: If you installed Node.js and npm while VS Code was open, it's recommended to restart VS Code to ensure that it picks up the newly installed binaries.
+5.  Restart VS Code: If you installed Node.js and npm while VS Code was open, it's recommended to restart VS Code to ensure that it picks up the newly installed binaries.
     
-
 Once you have successfully installed Node.js and npm, you should be able to use the `npm` command in the VS Code terminal without any issues.
 
-**yarn : File C:\Users\(userID)\AppData\Roaming\npm\yarn.ps1 cannot be loaded because running scripts is disabled on this system.**
+
+ **Install yarn now**
+
+    npm -g install yarn
+    yarn --version
+
+**If get Error = yarn : File C:\Users\(userID)\AppData\Roaming\npm\yarn.ps1 cannot be loaded because running scripts is disabled on this system.**
 
 The error message you received indicates that running scripts is disabled on your system, which is preventing the execution of the `yarn` command. This is a security measure in place on some systems to prevent the execution of potentially harmful scripts.
 
