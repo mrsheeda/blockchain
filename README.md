@@ -7,8 +7,10 @@ To resolve this issue, you can follow these steps:
 1.  Install Node.js: Visit the official Node.js website ([https://nodejs.org](https://nodejs.org/)) and download the latest version of Node.js for your operating system. Follow the installation instructions provided for your specific platform.
     
 2.  Add Node.js to PATH: During the Node.js installation process, make sure to check the option that adds Node.js to your system's PATH environment variable. This will allow you to access the `npm` command globally from any terminal or command prompt.
+
+3.  
     
-3.  Verify the installation: After the installation is complete, open a new terminal in VS Code and run the following command to verify that Node.js and npm are installed:
+4.  Verify the installation: After the installation is complete, open a new terminal in VS Code and run the following command to verify that Node.js and npm are installed:
     
     cssCopy code
     
