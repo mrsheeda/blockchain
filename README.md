@@ -53,7 +53,8 @@ To resolve this issue, you can modify the execution policy in PowerShell to allo
 4.  Confirm the change: When prompted to change the execution policy, type "Y" and press Enter to confirm the change.
     
 5.  Close the PowerShell window: Once the execution policy is changed, you can close the elevated PowerShell window.
-    
+
+This is for educational purpose only.    
 After following these steps, open a new terminal in VS Code and try running the `yarn` command again. It should now execute without the "running scripts is disabled" error.
 
 **Now you can install the LayerZero Client**
