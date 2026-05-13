@@ -25,7 +25,7 @@ To resolve this issue, you can follow these steps:
 Once you have successfully installed Node.js and npm, you should be able to use the `npm` command in the VS Code terminal without any issues.
 
 
- **Install yarn now**
+ **Install yarn and npm now**
 
     npm install -g yarn
     yarn --version
